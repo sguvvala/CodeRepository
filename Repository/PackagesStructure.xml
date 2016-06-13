@@ -1,0 +1,17 @@
+
+  <Packages>
+    <Package Name="Package 1">
+      <Version Name="1" Directory="Package1_1" Status="Closed">
+      </Version>
+      <Version Name="2" Directory="Package1_2" Status="Closed">
+      </Version>
+    </Package>
+    <Package Name="Package 2">
+      <Version Name="1" Directory="Package2_1" Status="Open">
+      </Version>
+    </Package>
+    <Package Name="Package 1">
+      <Version Name="12" Directory="Package1_1" Status="Closed">
+      </Version>
+    </Package>
+  </Packages>

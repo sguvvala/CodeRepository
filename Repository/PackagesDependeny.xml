@@ -1,0 +1,9 @@
+
+  <Dependency>
+    <Package Name="Folder 1">
+    </Package>
+    <Package Name="Folder 2">
+    </Package>
+    <Package Name="Folder 3">
+    </Package>
+  </Dependency>

@@ -1,0 +1,19 @@
+
+  <Packages>
+    <Package Name="OpenPackage">
+      <Version Name="OpenPackage_Wed_May_4_20_39_57_2016" Directory="C:\Users\Sruthi Guvvala\Desktop\Project4Sub\CodeRepository\ServerRepository\OpenPackage_Wed_May_4_20_39_57_2016" Status="Open">
+      </Version>
+    </Package>
+    <Package Name="ClosedPackage">
+      <Version Name="ClosedPackage_Wed_May_4_20_39_58_2016" Directory="C:\Users\Sruthi Guvvala\Desktop\Project4Sub\CodeRepository\ServerRepository\ClosedPackage_Wed_May_4_20_39_58_2016" Status="Closed">
+      </Version>
+    </Package>
+    <Package Name="ClosedPackage">
+      <Version Name="ClosedPackage_Wed_May_4_20_40_03_2016" Directory="C:\Users\Sruthi Guvvala\Desktop\Project4Sub\CodeRepository\ServerRepository\ClosedPackage_Wed_May_4_20_40_03_2016" Status="Closed">
+      </Version>
+    </Package>
+    <Package Name="NewPackage">
+      <Version Name="NewPackage_Wed_May_4_20_40_03_2016" Directory="C:\Users\Sruthi Guvvala\Desktop\Project4Sub\CodeRepository\ServerRepository\NewPackage_Wed_May_4_20_40_03_2016" Status="Open">
+      </Version>
+    </Package>
+  </Packages>
